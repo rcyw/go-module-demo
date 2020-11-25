@@ -11,5 +11,3 @@ func ReturnStr() string {
 func ReturnStr2() string {
 	return "hello demo2!"
 }
-
-
